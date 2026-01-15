@@ -26,7 +26,7 @@ Welcome to my Data Analyst Portfolio Project Repository! Here you'll find a coll
      - `Online Sales Data.csv`:  Raw sales data file.
      - `Sales Expolartory Data Analysis.sql`: SQL file containing exploratory data analysis queries.
      - `Marketplace sales analysis.pbix` : Power BI dashboard visualizing key sales insights and performance metrics.
-     - `Dashboaed Screeshots.pdf` : PDF carousel showcasing the dashboard with key screenshots.
+     - `Dashboaed Screenshots.pdf` : PDF carousel showcasing the dashboard with key screenshots.
 
 Technologies Used
 ## Technologies Used:
