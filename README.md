@@ -21,20 +21,12 @@ Welcome to my Data Analyst Portfolio Project Repository! Here you'll find a coll
      - `movie_dataset.csv`: Raw movie dataset file.
      - `movie_correlation_analysis.py`: Python file for studying correlation in the movie dataset.
 
-4.  **[Marketplace Sales Analysis](https://github.com/ghofran123/PortfolioProjects/tree/main/Marketplace%20Sales%20analysis)**:
-   - **Folder:** `Marketplace Sales Analysis`
-     - `Online Sales Data.csv`:  Raw sales data file.
-     - `Sales Expolartory Data Analysis.sql`: SQL file containing exploratory data analysis queries.
-     - `Marketplace sales analysis.pbix` : Power BI dashboard visualizing key sales insights and performance metrics.
-     - `Dashboaed Screenshots.pdf` : PDF carousel showcasing the dashboard with key screenshots.
-
 Technologies Used
 ## Technologies Used:
 
 - SQL
 - Excel
 - Python
-- Power BI
 
 ## How to Navigate:
 
@@ -42,4 +34,5 @@ Each project folder contains the dataset used for analysis and the relevant file
 
 Feel free to explore each project and reach out to me if you have any questions or would like to discuss collaborations.
 
-Thank you for visiting my portfolio!
+## 📌 Contact
+- LinkedIn: [Ghofran Ghanmi](https://www.linkedin.com/in/ghofran-ghanmi/)
