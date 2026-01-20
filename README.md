@@ -1,4 +1,4 @@
-# Data Analyst Portfolio Project Repository
+# Data Explorations Projects
 Welcome to my Data Analyst Portfolio Project Repository! Here you'll find a collection of projects showcasing my skills and experience in data analysis.
 
 ## Projects Included:
